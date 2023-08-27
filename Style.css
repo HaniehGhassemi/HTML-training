@@ -25,3 +25,13 @@
   height: 39%;
   background-color: #bcaaaa;
 }
+
+.right {
+  width: 50%;
+  height: 100%;
+}
+
+.left {
+  width: 50%;
+  height: 100%;
+}
